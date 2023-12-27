@@ -1,0 +1,29 @@
+We are making classes of different products in a work place
+
+We have xerox machine, cannon and a printer.
+
+Xerox implements fax, printer and scanning features.
+
+We can make a single interface that has all methods of fax, printer and scanner.
+
+The other option is to segregate the interfaces on the basis of their functionality.
+
+It will help us to not implement the methods that a class does not use.
+
+
+#How to see a interface voilates ISP?
+
+We should not make Fat Interfaces i,e with every methods possible
+
+Interfaces with Low Cohesion
+
+Blank methods
+
+----------------------------------------------------------------------------
+
+When we implement ISP, we giving single reason to change a interface.
+
+It means by implementing ISP we also implement SRP.
+
+SOLID principles work in cohesion to achieve the goal of a well designed software.
+

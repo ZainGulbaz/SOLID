@@ -1,0 +1,3 @@
+A class must not be forced to implement the methods that it does not use
+
+The methods in a class that are not implemented are called blind methods

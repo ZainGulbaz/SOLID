@@ -1,0 +1,3 @@
+Objects must be replaceable with their subtypes with out affecting the correctness of the program
+
+extends -> is a relation
